@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🐱‍👤 Ayush Poojari
 
-<!--
-**AyushPoojariUCD/AyushPoojariUCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Dublin, Ireland  
+🎓 MSc Computer Science @ University College Dublin (UCD)  
+📬 ayush.poojari@ucdconnect.ie  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayush-poojari)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushPoojariUCD&show_icons=true&theme=github_dark)
+
+---
+
+## 📢 Let's Connect
+
+Feel free to connect or collaborate on AI, systems, or full-stack projects!
+
+📩 [ayush.poojari@ucdconnect.ie](mailto:ayush.poojari@ucdconnect.ie)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayush-poojari)
