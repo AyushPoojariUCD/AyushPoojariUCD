@@ -81,15 +81,31 @@ I’m a **Software Developer** specializing in **Software Development, AI/ML, De
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPoojariUCD&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
-## 📢 Let's Connect
+---
+ 
+<div align="center">
+  
+---
 
-Feel free to connect or collaborate on AI, systems, or full-stack projects!
+## 🌐 Connect With Me
 
-📩 [ayush.poojari@ucdconnect.ie](mailto:ayush.poojari@ucdconnect.ie)  
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-ayushpoojari.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushpoojari.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpoojariucd/)
+[![Email](https://img.shields.io/badge/Email-ayush.poojari@ucdconnect.ie-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.poojari@ucdconnect.ie)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayushpoojari.vercel.app-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushpoojari.vercel.app/)
 
-🔗 [LinkedIn: https://www.linkedin.com/in/ayush-poojari](https://www.linkedin.com/in/ayush-poojari) 
+</div>
 
-🌐  [Portfolio: https://ayushpoojari.vercel.app/](https://ayushpoojari.vercel.app/)
+---
 
+<div align="center">
+  
+### 💡 "Building intelligent solutions for the future"
 
+![Profile Views](https://komarev.com/ghpvc/?username=AyushPoojariUCD&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/AyushPoojariUCD?label=Follow&style=social)](https://github.com/AyushPoojariUCD)
 
+</div>
+---
