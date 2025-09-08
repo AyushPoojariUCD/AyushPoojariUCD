@@ -76,6 +76,11 @@ I’m a **Software Developer** specializing in **Software Development, AI/ML, De
 
 ---
 
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPoojariUCD&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
 ## 📢 Let's Connect
 
 Feel free to connect or collaborate on AI, systems, or full-stack projects!
