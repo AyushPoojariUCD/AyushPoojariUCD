@@ -1,4 +1,5 @@
-# 👤 Ayush Poojari
+--- 
+# Ayush Poojari
 
 📍 Dublin, Ireland  
 🎓 MSc Computer Science @ University College Dublin (UCD)  
