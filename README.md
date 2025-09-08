@@ -5,6 +5,20 @@
 📬 ayush.poojari@ucdconnect.ie  
 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-poojari)
 
+---
+
+## 🚀 About Me  
+
+I’m a **Software Developer** specializing in **Software Development, AI/ML, DevOps, and Platform Engineering**, with **2+ years** of professional experience in both onsite and remote environments. I’m passionate about designing and delivering **production-ready applications**, **scalable cloud infrastructure**, and **automation workflows** that improve reliability and performance.  
+
+- 🎓 Currently pursuing an **MSc in Computer Science** at **University College Dublin**, focusing on **Artificial Intelligence** and **DevOps/Platform Engineering**  
+- 🌱 Continuously expanding my expertise in **emerging technologies**, **agentic development**,**ai ml**, **cloud-native tools**, and **industry best practices**  
+- 👯 Eager to collaborate on **open-source projects**, **AI/ML solutions**, and **DevOps initiatives**  
+- ☁️ Skilled in **C++**, **C#**, **Java**, **Python**, **Cloud Architecture (AWS/GCP/Azure)**, **CI/CD**, and **Infrastructure as Code**  
+- 💬 Feel free to reach out about **Python, Cloud Architecture, DevOps, and Platform Engineering**  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
