@@ -55,9 +55,24 @@ I’m a **Software Developer** specializing in **Software Development, AI/ML, De
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushPoojariUCD&show_icons=true&theme=github_dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushPoojariUCD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPoojariUCD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPoojariUCD&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushPoojariUCD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
 
 ---
 
