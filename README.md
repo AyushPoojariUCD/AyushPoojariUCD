@@ -114,7 +114,11 @@ I’m a **Software Developer** specializing in **Software Development, AI/ML, De
 
 ---
  
+## 🧩 LeetCode Stats
+
 <div align="center">
+  <img src="https://leetcard.jacoblin.cool/ayushpoojari?theme=dark&font=Baloo%202&ext=heatmap" alt="Ayush Poojari LeetCode Stats">
+</div>
   
 ---
 
