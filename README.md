@@ -62,6 +62,15 @@ I’m a **Software Developer** specializing in **Software Development, AI/ML, De
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/>
 </p>
 
+### **Databases Lakehouse**
+<p align="left">
+    <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" alt="databricks" width="45" height="45"/> 
+    <img src="https://avatars.githubusercontent.com/u/124156?s=200&v=4" alt="snowflake" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="80" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
+</p>
+
 ### **Machine Learning & Data Analysis**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/>
