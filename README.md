@@ -1,11 +1,7 @@
 --- 
-# Ayush Poojari
-
-📍 Dublin, Ireland  
-🎓 MSc Computer Science @ University College Dublin (UCD)  
-📬 ayush.poojari@ucdconnect.ie  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayush-poojari)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyushPoojariUCD/AyushPoojariUCD/main/Ayush%20Poojari.gif" width="100%" />
+</p>
 ---
 
 ## 🚀 About Me  
