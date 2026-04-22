@@ -1,6 +1,6 @@
 --- 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyushPoojariUCD/AyushPoojariUCD/main/Ayush%20Poojari.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/AyushPoojariUCD/AyushPoojariUCD/main/Ayush%20Poojari.png" />
 </p>
 
 ## 🚀 About Me  
