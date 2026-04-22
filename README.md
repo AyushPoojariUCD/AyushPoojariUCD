@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AyushPoojariUCD/AyushPoojariUCD/main/Ayush%20Poojari.gif" width="100%" />
 </p>
----
 
 ## 🚀 About Me  
 
