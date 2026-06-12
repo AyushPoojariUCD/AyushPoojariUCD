@@ -96,29 +96,7 @@ I’m a **Software Developer** specializing in **Software Development, AI/ML, De
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40"/>
 </p>
----
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushPoojariUCD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPoojariUCD&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
- 
-## 🧩 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ayushpoojari?theme=dark&font=Baloo%202&ext=heatmap" alt="Ayush Poojari LeetCode Stats">
-</div>
-  
 ---
 
 ## 🌐 Connect With Me
@@ -142,4 +120,5 @@ I’m a **Software Developer** specializing in **Software Development, AI/ML, De
 [![GitHub followers](https://img.shields.io/github/followers/AyushPoojariUCD?label=Follow&style=social)](https://github.com/AyushPoojariUCD)
 
 </div>
+
 ---
